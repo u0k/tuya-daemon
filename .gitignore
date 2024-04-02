@@ -1,0 +1,7 @@
+build
+.clang-format
+.vscode
+*.o
+/lib/*
+/include/tuya-sdk
+*.txt
